@@ -22,6 +22,5 @@
 ### 📊 GitHub Stats
 <p>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=ssoonghee&show_icons=true&theme=vue&hide_title=true"/> -->
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoonghee&layout=compact&theme=vue"/>
 </p>
